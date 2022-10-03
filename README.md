@@ -6,22 +6,22 @@
 <h2> PROJECT TITLE: VOTING SYSTEM </h2>
 <ol>
  
- <li> 1.	 Introduction </li>
+ <li> 	 Introduction </li>
 
 
- <li> 2.	System Analysis </li>
+ <li> 	System Analysis </li>
 
 
- <li> 3.	Use Case Diagram </li>
+ <li> 	Use Case Diagram </li>
 
 
- <li> 4.	Source Code Breakdown </li>
+ <li> 	Source Code Breakdown </li>
 
 
- <li> 5.	Flow Chart </li>
+ <li>	Flow Chart </li>
 
 
- <li> 6.	The Source Code </li>
+ <li> 	The Source Code </li>
 
 
 
@@ -52,51 +52,48 @@ There are two set of actors in this system <br>
 
  <li> 2.	The Secondary Actor(s): These are the individuals that assist the system in archiving user goals. In this program, the secondary actors are the Voting Officials. </li>
   </ol>
+<br>
 
-The User Requirements:
+<h3>The User Requirements:</h3< <br>
 
-The Voters
-1.	The voters shall be able to register.
-2.	The voters shall be given a unique ID.
-3.	The voters shall be able to vote for the aspirant of their choice.
-4.	The voters shall be able to view the election result after the election has ended.
+	<u> The Voters </u> <br>
+	<ol>
+	<li> The voters shall be able to register. </li>
+	<li> The voters shall be given a unique ID. </li>
+	<li> The voters shall be able to vote for the aspirant of their choice. </li>
+	<li> The voters shall be able to view the election result after the election has ended. </li>
+	</ol>
 
-The Aspirants
-1.	The aspirants shall be able to register.
-2.	The aspirants shall be able to be voted for.
-3.	The aspirants shall be able to vote.
-4.	The aspirants shall be able to view the election result after the election has ended.
+	<u> The Aspirants </u> <br>
+	<ol>
+	<li>The aspirants shall be able to register.</li>
+	<li>The aspirants shall be able to be voted for.</li>
+	<li>The aspirants shall be able to vote.</li>
+	<li>The aspirants shall be able to view the election result after the election has ended.</li>
+	</ol>
 
-The Voting Officials 
-1.	The voting officials shall be able to start the voting process.
-2.	The voting officials shall be able to oversee the voting process.
-3.	The voting officials shall be able to end the voting process.
-4.	The voting officials shall be able to view the election result after the election has ended.
+	<u> The Voting Officials </u>
+	<ol>
+	<li>The voting officials shall be able to start the voting process.</li>
+	<li>The voting officials shall be able to oversee the voting process.</li>
+	<li>The voting officials shall be able to end the voting process.</li>
+	<li>The voting officials shall be able to view the election result after the election has ended.</li>
+	</ol>
 
-The System Requirements
-1.	The system shall be able to register 25 aspirants and their various parties.
-2.	The system shall be able to register 1000 voters.
-3.	The system shall have a maximum response time of five (5) seconds.
-4.	The system shall be able to generate unique ID numbers for all registered voters
-5.	The system shall be able to run for a minimum of 24 hours without failure.
-6.	The system shall be able to detect a tie.
-7.	The system shall be able to stop a voter from voting twice
-8.	The system shall be able to allow all aspirants to register at once
-9.	The system shall be able to identify the winner of the election
+	<u> The System Requirements </u>
+	<ol>
+	<li>The system shall be able to register 25 aspirants and their various parties.</li>
+	<li>The system shall be able to register 1000 voters.</li>
+	<li>The system shall have a maximum response time of five (5) seconds.</li>
+	<li>The system shall be able to generate unique ID numbers for all registered voters.</li>
+	<li>The system shall be able to run for a minimum of 24 hours without failure.</li>
+	<li>The system shall be able to detect a tie.</li>
+	<li>The system shall be able to stop a voter from voting twice</li>
+	<li>The system shall be able to allow all aspirants to register at once</li>
+	<li>The system shall be able to identify the winner of the election</li>
 
-
-
-
-
-
-
-
-
-
-
-
-USE CASE DIAGRAM FOR THE VOTING SYSTEM
- 
+	<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
+ ![Use case Image one](/Users/mac/Documents/Salem Chapel/opt1.jpg)
 
 
 
