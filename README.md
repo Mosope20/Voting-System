@@ -87,6 +87,7 @@ There are two set of actors in this system <br>
 </ol>
 
 <h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
+<img src="UML.jpg" alt="USE CASE DIAGRAM">
 </p>
 <h3> FLOW CHART FOR THE VOTHING SYSTEM </h3>
 <img src="opt1 copy.jpg" alt="Flow chart image 1">
@@ -109,6 +110,7 @@ Libraries Used:
 
 
 Functions created:
+
 1.	bool check(int num){
 int track = num;
     int count = 0;
@@ -171,6 +173,7 @@ for(int i = 0; i<size; i++){
 
 
 Arrays created:
+
 1.	int storeRegNumber[15];
 
 2.	numTimesPicked[20];
@@ -180,6 +183,7 @@ Arrays created:
 4.	string name[25];
 
 Arithmetic Operation created:
+
 1.	int lenPicked = sizeof(numTimesPicked)/sizeof(numTimesPickes[0]);
 
 Control Structure:
