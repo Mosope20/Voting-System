@@ -48,12 +48,12 @@ The Actors of the system: <br>
 
 There are two set of actors in this system <br>
  <ol>
- <li> 1.	The Primary Actor(s): These are the individuals who us the system to achieve a goal. In this case, the primary actors are the Voters and the Aspirants. </li>
+ <li> 	The Primary Actor(s): These are the individuals who us the system to achieve a goal. In this case, the primary actors are the Voters and the Aspirants. </li>
 
- <li> 2.	The Secondary Actor(s): These are the individuals that assist the system in archiving user goals. In this program, the secondary actors are the Voting Officials. </li>
+ <li> 	The Secondary Actor(s): These are the individuals that assist the system in archiving user goals. In this program, the secondary actors are the Voting Officials. </li>
   </ol>
 
-	<h3>The User Requirements:</h3> <br>
+	<h3>The User Requirements:</h3>
 
 	<u> The Voters </u> <br>
 	<ol>
