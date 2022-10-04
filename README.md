@@ -94,7 +94,7 @@ There are two set of actors in this system <br>
 
 	<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
 		</p>
-		<img src="opt1 copy.jpg" alt="Flow chart image 1"
+		<img src="opt1 copy.jpg" alt="Flow chart image 1">
  ![Use case Image one](opt1 copy.jpg)
 		
 
