@@ -24,12 +24,6 @@
  <li> 	The Source Code </li>
 
 
-
-
-
-
-
-
 <h2> The Proposed System: </h2>
 
 <p> The proposed system is to produce a voting system that enables aspirants and voters to have a secure, non-biased and transparent means of registering and voting. <br>
@@ -53,48 +47,48 @@ There are two set of actors in this system <br>
  <li> 	The Secondary Actor(s): These are the individuals that assist the system in archiving user goals. In this program, the secondary actors are the Voting Officials. </li>
   </ol>
 
-	<h3>The User Requirements:</h3>
+<h3>The User Requirements:</h3>
 
-	<u> The Voters </u> <br>
-	<ol>
-	<li> The voters shall be able to register. </li>
-	<li> The voters shall be given a unique ID. </li>
-	<li> The voters shall be able to vote for the aspirant of their choice. </li>
-	<li> The voters shall be able to view the election result after the election has ended. </li>
-	</ol>
+<u> The Voters </u> <br>
+<ol>
+<li> The voters shall be able to register. </li>
+<li> The voters shall be given a unique ID. </li>
+<li> The voters shall be able to vote for the aspirant of their choice. </li>
+<li> The voters shall be able to view the election result after the election has ended. </li>
+</ol>
 
-	<u> The Aspirants </u> <br>
-	<ol>
-	<li>The aspirants shall be able to register.</li>
-	<li>The aspirants shall be able to be voted for.</li>
-	<li>The aspirants shall be able to vote.</li>
-	<li>The aspirants shall be able to view the election result after the election has ended.</li>
-	</ol>
+<u> The Aspirants </u> <br>
+<ol>
+<li>The aspirants shall be able to register.</li>
+<li>The aspirants shall be able to be voted for.</li>
+<li>The aspirants shall be able to vote.</li>
+<li>The aspirants shall be able to view the election result after the election has ended.</li>
+</ol>
 
-	<u> The Voting Officials </u>
-	<ol>
-	<li>The voting officials shall be able to start the voting process.</li>
-	<li>The voting officials shall be able to oversee the voting process.</li>
-	<li>The voting officials shall be able to end the voting process.</li>
-	<li>The voting officials shall be able to view the election result after the election has ended.</li>
-	</ol>
+<u> The Voting Officials </u>
+<ol>
+<li>The voting officials shall be able to start the voting process.</li>
+<li>The voting officials shall be able to oversee the voting process.</li>
+<li>The voting officials shall be able to end the voting process.</li>
+<li>The voting officials shall be able to view the election result after the election has ended.</li>
+</ol>
 
-	<u> The System Requirements </u>
-	<ol>
-	<li>The system shall be able to register 25 aspirants and their various parties.</li>
-	<li>The system shall be able to register 1000 voters.</li>
-	<li>The system shall have a maximum response time of five (5) seconds.</li>
-	<li>The system shall be able to generate unique ID numbers for all registered voters.</li>
-	<li>The system shall be able to run for a minimum of 24 hours without failure.</li>
-	<li>The system shall be able to detect a tie.</li>
-	<li>The system shall be able to stop a voter from voting twice</li>
-	<li>The system shall be able to allow all aspirants to register at once</li>
-	<li>The system shall be able to identify the winner of the election</li>
-	</ol>
+<u> The System Requirements </u>
+<ol>
+<li>The system shall be able to register 25 aspirants and their various parties.</li>
+<li>The system shall be able to register 1000 voters.</li>
+<li>The system shall have a maximum response time of five (5) seconds.</li>
+<li>The system shall be able to generate unique ID numbers for all registered voters.</li>
+<li>The system shall be able to run for a minimum of 24 hours without failure.</li>
+<li>The system shall be able to detect a tie.</li>
+<li>The system shall be able to stop a voter from voting twice</li>
+<li>The system shall be able to allow all aspirants to register at once</li>
+<li>The system shall be able to identify the winner of the election</li>
+</ol>
 
-	<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
-		</p>
-		<img src="opt1 copy.jpg" alt="Flow chart image 1">
+<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
+</p>
+<img src="opt1 copy.jpg" alt="Flow chart image 1">
  ![Use case Image one](opt1 copy.jpg)
 		
 
