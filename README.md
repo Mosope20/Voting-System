@@ -91,6 +91,7 @@ There are two set of actors in this system <br>
 	<li>The system shall be able to stop a voter from voting twice</li>
 	<li>The system shall be able to allow all aspirants to register at once</li>
 	<li>The system shall be able to identify the winner of the election</li>
+	</ol>
 
 	<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
 		</p>
