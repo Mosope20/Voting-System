@@ -65,7 +65,7 @@ There are two set of actors in this system <br>
 <li>The aspirants shall be able to view the election result after the election has ended.</li>
 </ol>
 
-<u> The Voting Officials </u>
+<u> The Voting Officials </u> <br>
 <ol>
 <li>The voting officials shall be able to start the voting process.</li>
 <li>The voting officials shall be able to oversee the voting process.</li>
@@ -73,7 +73,7 @@ There are two set of actors in this system <br>
 <li>The voting officials shall be able to view the election result after the election has ended.</li>
 </ol>
 
-<u> The System Requirements </u>
+<u> The System Requirements </u> <br>
 <ol>
 <li>The system shall be able to register 25 aspirants and their various parties.</li>
 <li>The system shall be able to register 1000 voters.</li>
@@ -88,9 +88,13 @@ There are two set of actors in this system <br>
 
 <h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
 </p>
+<h3> FLOW CHART FOR THE VOTHING SYSTEM </h3>
 <img src="opt1 copy.jpg" alt="Flow chart image 1">
- ![Use case Image one](opt1 copy.jpg)
-		
+<img src="opt2 copy.jpg" alt="Flow chart image 2">
+<img src="opt3 copy.jpg" alt="Flow chart image 3">
+<img src="opt4 copy.jpg" alt="Flow chart image 4">
+<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
+
 
 
 
