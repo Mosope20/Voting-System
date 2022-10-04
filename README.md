@@ -52,7 +52,6 @@ There are two set of actors in this system <br>
 
  <li> 2.	The Secondary Actor(s): These are the individuals that assist the system in archiving user goals. In this program, the secondary actors are the Voting Officials. </li>
   </ol>
-<br>
 
 	<h3>The User Requirements:</h3> <br>
 
