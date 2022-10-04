@@ -54,7 +54,7 @@ There are two set of actors in this system <br>
   </ol>
 <br>
 
-<h3>The User Requirements:</h3< <br>
+	<h3>The User Requirements:</h3> <br>
 
 	<u> The Voters </u> <br>
 	<ol>
@@ -93,9 +93,10 @@ There are two set of actors in this system <br>
 	<li>The system shall be able to identify the winner of the election</li>
 
 	<h3>USE CASE DIAGRAM FOR THE VOTING SYSTEM</h3>
+		</p>
 		<img src="opt1 copy.jpg" alt="Flow chart image 1"
  ![Use case Image one](opt1 copy.jpg)
-		</p>
+		
 
 
 
